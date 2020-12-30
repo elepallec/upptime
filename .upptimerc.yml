@@ -19,7 +19,6 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
   introTitle: "Status of *lepallec.tv* services"
-  introMessage: 
   navbar:
     - title: Status
       href: /

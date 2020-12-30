@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/plex.lepallec.tv",
     "slug": "plex",
     "status": "down",
-    "uptime": "11.04%",
-    "uptimeDay": "11.04%",
-    "uptimeWeek": "11.04%",
-    "uptimeMonth": "11.04%",
-    "uptimeYear": "11.04%",
-    "time": 701,
-    "timeDay": 701,
-    "timeWeek": 701,
-    "timeMonth": 701,
-    "timeYear": 701,
+    "uptime": "0.57%",
+    "uptimeDay": "0.57%",
+    "uptimeWeek": "0.57%",
+    "uptimeMonth": "0.57%",
+    "uptimeYear": "0.57%",
+    "time": 699,
+    "timeDay": 699,
+    "timeWeek": 699,
+    "timeMonth": 699,
+    "timeYear": 699,
     "dailyMinutesDown": {
-      "2020-12-30": 0
+      "2020-12-30": 5
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 768,
-    "timeDay": 768,
-    "timeWeek": 768,
-    "timeMonth": 768,
-    "timeYear": 768,
+    "time": 757,
+    "timeDay": 757,
+    "timeWeek": 757,
+    "timeMonth": 757,
+    "timeYear": 757,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1577,
-    "timeDay": 1577,
-    "timeWeek": 1577,
-    "timeMonth": 1577,
-    "timeYear": 1577,
+    "time": 1808,
+    "timeDay": 1808,
+    "timeWeek": 1808,
+    "timeMonth": 1808,
+    "timeYear": 1808,
     "dailyMinutesDown": {}
   }
 ]

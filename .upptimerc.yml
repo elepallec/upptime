@@ -5,20 +5,17 @@ repo: upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: Plex
-    url: https://plex.lepallec.tv
+    url: https://plex.lepallec.tv/web/index.html
   - name: Ombi
     url: https://ombi.lepallec.tv
   - name: Tautulli
     url: https://tautulli.lepallec.tv
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
   cname: uptime.lepallec.tv
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Uptime
-  introTitle: "Status of *lepallec.tv* services"
+  name: uptime.lepallec.tv
+  introTitle: "Status of **lepallec.tv** services"
   navbar:
     - title: Status
       href: /

@@ -1,22 +1,22 @@
 [
   {
     "name": "Plex",
-    "url": "https://plex.lepallec.tv",
+    "url": "https://plex.lepallec.tv/web/index.html",
     "icon": "https://favicons.githubusercontent.com/plex.lepallec.tv",
     "slug": "plex",
-    "status": "down",
-    "uptime": "0.57%",
-    "uptimeDay": "0.57%",
-    "uptimeWeek": "0.57%",
-    "uptimeMonth": "0.57%",
-    "uptimeYear": "0.57%",
-    "time": 699,
-    "timeDay": 699,
-    "timeWeek": 699,
-    "timeMonth": 699,
-    "timeYear": 699,
+    "status": "up",
+    "uptime": "0.50%",
+    "uptimeDay": "0.50%",
+    "uptimeWeek": "0.50%",
+    "uptimeMonth": "0.50%",
+    "uptimeYear": "0.50%",
+    "time": 763,
+    "timeDay": 763,
+    "timeWeek": 763,
+    "timeMonth": 763,
+    "timeYear": 763,
     "dailyMinutesDown": {
-      "2020-12-30": 5
+      "2020-12-30": 36
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 757,
-    "timeDay": 757,
-    "timeWeek": 757,
-    "timeMonth": 757,
-    "timeYear": 757,
+    "time": 743,
+    "timeDay": 743,
+    "timeWeek": 743,
+    "timeMonth": 743,
+    "timeYear": 743,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1808,
-    "timeDay": 1808,
-    "timeWeek": 1808,
-    "timeMonth": 1808,
-    "timeYear": 1808,
+    "time": 1900,
+    "timeDay": 1900,
+    "timeWeek": 1900,
+    "timeMonth": 1900,
+    "timeYear": 1900,
     "dailyMinutesDown": {}
   }
 ]

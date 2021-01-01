@@ -4,18 +4,19 @@
     "url": "https://plex.lepallec.tv/web/index.html",
     "icon": "https://favicons.githubusercontent.com/plex.lepallec.tv",
     "slug": "plex",
-    "status": "up",
-    "uptime": "98.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "98.36%",
+    "status": "down",
+    "uptime": "98.38%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "98.38%",
     "time": 665,
     "timeDay": 578,
     "timeWeek": 665,
     "timeMonth": 665,
     "timeYear": 665,
     "dailyMinutesDown": {
+      "2021-01-01": 3,
       "2020-12-30": 36
     }
   },
@@ -24,35 +25,39 @@
     "url": "https://ombi.lepallec.tv",
     "icon": "https://favicons.githubusercontent.com/ombi.lepallec.tv",
     "slug": "ombi",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 654,
     "timeDay": 541,
     "timeWeek": 654,
     "timeMonth": 654,
     "timeYear": 654,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-01": 2
+    }
   },
   {
     "name": "Tautulli",
     "url": "https://tautulli.lepallec.tv",
     "icon": "https://favicons.githubusercontent.com/tautulli.lepallec.tv",
     "slug": "tautulli",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1685,
     "timeDay": 1318,
     "timeWeek": 1685,
     "timeMonth": 1685,
     "timeYear": 1685,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-01": 0
+    }
   }
 ]

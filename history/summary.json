@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
-    "time": 763,
+    "uptimeYear": "99.85%",
+    "time": 764,
     "timeDay": 909,
-    "timeWeek": 892,
-    "timeMonth": 817,
-    "timeYear": 706,
+    "timeWeek": 859,
+    "timeMonth": 816,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2021-05-26": 36,
       "2021-04-23": 120,
@@ -28,8 +28,7 @@
       "2021-01-25": 63,
       "2021-01-23": 129,
       "2021-01-22": 61,
-      "2021-01-21": 61,
-      "2021-01-16": 103
+      "2021-01-21": 61
     }
   },
   {
@@ -38,16 +37,16 @@
     "icon": "https://favicons.githubusercontent.com/ombi.lepallec.tv",
     "slug": "ombi",
     "status": "up",
-    "uptime": "96.27%",
+    "uptime": "96.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.18%",
-    "time": 758,
-    "timeDay": 1199,
-    "timeWeek": 1118,
-    "timeMonth": 1037,
-    "timeYear": 764,
+    "time": 759,
+    "timeDay": 1319,
+    "timeWeek": 1130,
+    "timeMonth": 1039,
+    "timeYear": 766,
     "dailyMinutesDown": {
       "2021-05-26": 35,
       "2021-04-25": 33,
@@ -80,8 +79,7 @@
       "2021-01-25": 61,
       "2021-01-23": 42,
       "2021-01-22": 61,
-      "2021-01-21": 61,
-      "2021-01-16": 102
+      "2021-01-21": 61
     }
   },
   {
@@ -95,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 1279,
-    "timeDay": 1469,
-    "timeWeek": 1127,
-    "timeMonth": 1052,
-    "timeYear": 1277,
+    "time": 1278,
+    "timeDay": 980,
+    "timeWeek": 1131,
+    "timeMonth": 1051,
+    "timeYear": 1278,
     "dailyMinutesDown": {
       "2021-05-26": 35,
       "2021-04-23": 117,

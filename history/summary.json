@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.88%",
     "time": 763,
-    "timeDay": 570,
-    "timeWeek": 779,
-    "timeMonth": 801,
-    "timeYear": 712,
+    "timeDay": 900,
+    "timeWeek": 778,
+    "timeMonth": 805,
+    "timeYear": 715,
     "dailyMinutesDown": {
       "2021-05-26": 36,
       "2021-04-23": 120,
@@ -26,8 +26,7 @@
       "2021-02-05": 20,
       "2021-01-27": 24,
       "2021-01-25": 63,
-      "2021-01-23": 129,
-      "2021-01-22": 61
+      "2021-01-23": 129
     }
   },
   {
@@ -36,16 +35,16 @@
     "icon": "https://favicons.githubusercontent.com/ombi.lepallec.tv",
     "slug": "ombi",
     "status": "up",
-    "uptime": "96.33%",
+    "uptime": "96.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.20%",
-    "time": 762,
-    "timeDay": 791,
-    "timeWeek": 1119,
-    "timeMonth": 1031,
-    "timeYear": 774,
+    "uptimeYear": "96.21%",
+    "time": 763,
+    "timeDay": 988,
+    "timeWeek": 1089,
+    "timeMonth": 1039,
+    "timeYear": 777,
     "dailyMinutesDown": {
       "2021-05-26": 35,
       "2021-04-25": 33,
@@ -76,8 +75,7 @@
       "2021-02-05": 41,
       "2021-01-30": 16,
       "2021-01-25": 61,
-      "2021-01-23": 42,
-      "2021-01-22": 61
+      "2021-01-23": 42
     }
   },
   {
@@ -90,12 +88,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
-    "time": 1276,
-    "timeDay": 628,
-    "timeWeek": 1161,
-    "timeMonth": 1058,
-    "timeYear": 1280,
+    "uptimeYear": "99.79%",
+    "time": 1277,
+    "timeDay": 1591,
+    "timeWeek": 1179,
+    "timeMonth": 1078,
+    "timeYear": 1284,
     "dailyMinutesDown": {
       "2021-05-26": 35,
       "2021-04-23": 117,
@@ -115,8 +113,7 @@
       "2021-02-04": 25,
       "2021-02-02": 22,
       "2021-01-25": 60,
-      "2021-01-23": 40,
-      "2021-01-22": 61
+      "2021-01-23": 40
     }
   }
 ]

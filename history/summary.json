@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 752,
-    "timeDay": 711,
-    "timeWeek": 710,
-    "timeMonth": 780,
-    "timeYear": 788,
+    "timeDay": 664,
+    "timeWeek": 654,
+    "timeMonth": 766,
+    "timeYear": 789,
     "dailyMinutesDown": {
       "2022-01-22": 676
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/ombi.lepallec.tv",
     "slug": "ombi",
     "status": "up",
-    "uptime": "97.32%",
+    "uptime": "97.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 874,
-    "timeDay": 619,
-    "timeWeek": 660,
-    "timeMonth": 779,
-    "timeYear": 885,
+    "time": 875,
+    "timeDay": 709,
+    "timeWeek": 578,
+    "timeMonth": 765,
+    "timeYear": 886,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1233,
-    "timeDay": 886,
-    "timeWeek": 772,
-    "timeMonth": 873,
-    "timeYear": 1190,
+    "time": 1236,
+    "timeDay": 1613,
+    "timeWeek": 867,
+    "timeMonth": 892,
+    "timeYear": 1191,
     "dailyMinutesDown": {
       "2022-05-08": 18
     }

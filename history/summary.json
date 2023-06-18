@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.lepallec.tv.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "65.86%",
+    "uptime": "65.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "16.15%",
     "time": 364,
-    "timeDay": 70,
-    "timeWeek": 103,
-    "timeMonth": 102,
-    "timeYear": 236,
+    "timeDay": 322,
+    "timeWeek": 148,
+    "timeMonth": 111,
+    "timeYear": 235,
     "dailyMinutesDown": {
       "2023-04-22": 57,
       "2023-04-21": 1440,
@@ -323,8 +323,7 @@
       "2022-06-22": 1440,
       "2022-06-21": 1440,
       "2022-06-20": 1440,
-      "2022-06-19": 1440,
-      "2022-06-18": 140
+      "2022-06-19": 1440
     }
   },
   {
@@ -333,15 +332,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.lepallec.tv.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "64.43%",
+    "uptime": "64.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "16.15%",
-    "time": 324,
-    "timeDay": 50,
-    "timeWeek": 52,
-    "timeMonth": 65,
+    "time": 323,
+    "timeDay": 311,
+    "timeWeek": 99,
+    "timeMonth": 74,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2023-04-22": 57,
@@ -651,8 +650,7 @@
       "2022-06-22": 1440,
       "2022-06-21": 1440,
       "2022-06-20": 1440,
-      "2022-06-19": 1440,
-      "2022-06-18": 140
+      "2022-06-19": 1440
     }
   },
   {
@@ -661,16 +659,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.lepallec.tv.ico",
     "slug": "tautulli",
     "status": "down",
-    "uptime": "65.89%",
+    "uptime": "65.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "16.15%",
-    "time": 404,
-    "timeDay": 81,
-    "timeWeek": 68,
-    "timeMonth": 75,
-    "timeYear": 179,
+    "time": 403,
+    "timeDay": 71,
+    "timeWeek": 73,
+    "timeMonth": 72,
+    "timeYear": 178,
     "dailyMinutesDown": {
       "2023-04-22": 57,
       "2023-04-21": 1440,
@@ -979,8 +977,7 @@
       "2022-06-22": 1440,
       "2022-06-21": 1440,
       "2022-06-20": 1440,
-      "2022-06-19": 1440,
-      "2022-06-18": 140
+      "2022-06-19": 1440
     }
   }
 ]

@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.lepallec.tv.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "65.97%",
+    "uptime": "66.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "16.47%",
-    "time": 361,
-    "timeDay": 64,
-    "timeWeek": 139,
-    "timeMonth": 110,
+    "uptimeYear": "16.74%",
+    "time": 360,
+    "timeDay": 111,
+    "timeWeek": 120,
+    "timeMonth": 112,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2023-04-22": 57,
@@ -320,8 +320,7 @@
       "2022-06-25": 1440,
       "2022-06-24": 1440,
       "2022-06-23": 1440,
-      "2022-06-22": 1440,
-      "2022-06-21": 1440
+      "2022-06-22": 1440
     }
   },
   {
@@ -330,15 +329,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.lepallec.tv.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "64.55%",
+    "uptime": "64.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "16.47%",
-    "time": 320,
-    "timeDay": 76,
-    "timeWeek": 99,
-    "timeMonth": 74,
+    "uptimeYear": "16.74%",
+    "time": 318,
+    "timeDay": 68,
+    "timeWeek": 97,
+    "timeMonth": 76,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2023-04-22": 57,
@@ -645,8 +644,7 @@
       "2022-06-25": 1440,
       "2022-06-24": 1440,
       "2022-06-23": 1440,
-      "2022-06-22": 1440,
-      "2022-06-21": 1440
+      "2022-06-22": 1440
     }
   },
   {
@@ -655,14 +653,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.lepallec.tv.ico",
     "slug": "tautulli",
     "status": "down",
-    "uptime": "66.00%",
+    "uptime": "66.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "16.47%",
-    "time": 400,
-    "timeDay": 74,
-    "timeWeek": 75,
+    "uptimeYear": "16.74%",
+    "time": 398,
+    "timeDay": 68,
+    "timeWeek": 68,
     "timeMonth": 72,
     "timeYear": 178,
     "dailyMinutesDown": {
@@ -970,8 +968,7 @@
       "2022-06-25": 1440,
       "2022-06-24": 1440,
       "2022-06-23": 1440,
-      "2022-06-22": 1440,
-      "2022-06-21": 1440
+      "2022-06-22": 1440
     }
   }
 ]

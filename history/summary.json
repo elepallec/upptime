@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.lepallec.tv.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "66.08%",
+    "uptime": "66.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "17.29%",
-    "time": 358,
-    "timeDay": 64,
-    "timeWeek": 117,
+    "uptimeYear": "17.56%",
+    "time": 357,
+    "timeDay": 87,
+    "timeWeek": 119,
     "timeMonth": 110,
     "timeYear": 234,
     "dailyMinutesDown": {
@@ -317,8 +317,7 @@
       "2022-06-28": 1440,
       "2022-06-27": 1440,
       "2022-06-26": 1440,
-      "2022-06-25": 1440,
-      "2022-06-24": 1440
+      "2022-06-25": 1440
     }
   },
   {
@@ -327,14 +326,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.lepallec.tv.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "64.67%",
+    "uptime": "64.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "17.29%",
-    "time": 314,
-    "timeDay": 35,
-    "timeWeek": 95,
+    "uptimeYear": "17.56%",
+    "time": 313,
+    "timeDay": 71,
+    "timeWeek": 98,
     "timeMonth": 73,
     "timeYear": 147,
     "dailyMinutesDown": {
@@ -639,8 +638,7 @@
       "2022-06-28": 1440,
       "2022-06-27": 1440,
       "2022-06-26": 1440,
-      "2022-06-25": 1440,
-      "2022-06-24": 1440
+      "2022-06-25": 1440
     }
   },
   {
@@ -649,15 +647,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.lepallec.tv.ico",
     "slug": "tautulli",
     "status": "down",
-    "uptime": "66.11%",
+    "uptime": "66.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "17.29%",
-    "time": 395,
-    "timeDay": 61,
-    "timeWeek": 71,
-    "timeMonth": 71,
+    "uptimeYear": "17.56%",
+    "time": 393,
+    "timeDay": 48,
+    "timeWeek": 67,
+    "timeMonth": 70,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2023-04-22": 57,
@@ -961,8 +959,7 @@
       "2022-06-28": 1440,
       "2022-06-27": 1440,
       "2022-06-26": 1440,
-      "2022-06-25": 1440,
-      "2022-06-24": 1440
+      "2022-06-25": 1440
     }
   }
 ]

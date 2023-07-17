@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.lepallec.tv.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "66.92%",
+    "uptime": "66.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "23.59%",
-    "time": 337,
-    "timeDay": 88,
-    "timeWeek": 85,
-    "timeMonth": 125,
+    "uptimeYear": "23.87%",
+    "time": 336,
+    "timeDay": 37,
+    "timeWeek": 73,
+    "timeMonth": 124,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2023-04-22": 57,
@@ -294,8 +294,7 @@
       "2022-07-21": 1440,
       "2022-07-20": 1440,
       "2022-07-19": 1440,
-      "2022-07-18": 1440,
-      "2022-07-17": 1440
+      "2022-07-18": 1440
     }
   },
   {
@@ -304,14 +303,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.lepallec.tv.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "65.54%",
+    "uptime": "65.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "23.59%",
-    "time": 283,
-    "timeDay": 75,
-    "timeWeek": 66,
+    "uptimeYear": "23.86%",
+    "time": 282,
+    "timeDay": 54,
+    "timeWeek": 60,
     "timeMonth": 81,
     "timeYear": 147,
     "dailyMinutesDown": {
@@ -593,8 +592,7 @@
       "2022-07-21": 1440,
       "2022-07-20": 1440,
       "2022-07-19": 1440,
-      "2022-07-18": 1440,
-      "2022-07-17": 1440
+      "2022-07-18": 1440
     }
   },
   {
@@ -603,16 +601,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.lepallec.tv.ico",
     "slug": "tautulli",
     "status": "down",
-    "uptime": "66.95%",
+    "uptime": "66.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "23.59%",
-    "time": 360,
-    "timeDay": 72,
-    "timeWeek": 64,
-    "timeMonth": 64,
-    "timeYear": 177,
+    "uptimeYear": "23.86%",
+    "time": 358,
+    "timeDay": 35,
+    "timeWeek": 55,
+    "timeMonth": 63,
+    "timeYear": 176,
     "dailyMinutesDown": {
       "2023-04-22": 57,
       "2023-04-21": 1440,
@@ -892,8 +890,7 @@
       "2022-07-21": 1440,
       "2022-07-20": 1440,
       "2022-07-19": 1440,
-      "2022-07-18": 1440,
-      "2022-07-17": 1440
+      "2022-07-18": 1440
     }
   }
 ]

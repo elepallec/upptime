@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.lepallec.tv.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "67.45%",
+    "uptime": "67.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "27.70%",
-    "time": 322,
-    "timeDay": 78,
-    "timeWeek": 72,
-    "timeMonth": 101,
+    "uptimeYear": "27.97%",
+    "time": 321,
+    "timeDay": 40,
+    "timeWeek": 62,
+    "timeMonth": 100,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2023-04-22": 57,
@@ -279,8 +279,7 @@
       "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
-      "2022-08-02": 1440,
-      "2022-08-01": 1440
+      "2022-08-02": 1440
     }
   },
   {
@@ -289,15 +288,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.lepallec.tv.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "66.09%",
+    "uptime": "66.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "27.70%",
-    "time": 262,
-    "timeDay": 32,
-    "timeWeek": 46,
-    "timeMonth": 70,
+    "uptimeYear": "27.97%",
+    "time": 260,
+    "timeDay": 49,
+    "timeWeek": 43,
+    "timeMonth": 64,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2023-04-22": 57,
@@ -563,8 +562,7 @@
       "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
-      "2022-08-02": 1440,
-      "2022-08-01": 1440
+      "2022-08-02": 1440
     }
   },
   {
@@ -573,14 +571,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.lepallec.tv.ico",
     "slug": "tautulli",
     "status": "down",
-    "uptime": "67.48%",
+    "uptime": "67.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "27.70%",
-    "time": 335,
-    "timeDay": 34,
-    "timeWeek": 59,
+    "uptimeYear": "27.97%",
+    "time": 334,
+    "timeDay": 64,
+    "timeWeek": 53,
     "timeMonth": 62,
     "timeYear": 176,
     "dailyMinutesDown": {
@@ -847,8 +845,7 @@
       "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
-      "2022-08-02": 1440,
-      "2022-08-01": 1440
+      "2022-08-02": 1440
     }
   }
 ]

@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.lepallec.tv.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "67.48%",
+    "uptime": "67.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "27.97%",
-    "time": 321,
-    "timeDay": 40,
-    "timeWeek": 62,
-    "timeMonth": 100,
-    "timeYear": 233,
+    "uptimeYear": "28.25%",
+    "time": 320,
+    "timeDay": 37,
+    "timeWeek": 59,
+    "timeMonth": 92,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2023-04-22": 57,
       "2023-04-21": 1440,
@@ -278,8 +278,7 @@
       "2022-08-06": 1440,
       "2022-08-05": 1440,
       "2022-08-04": 1440,
-      "2022-08-03": 1440,
-      "2022-08-02": 1440
+      "2022-08-03": 1440
     }
   },
   {
@@ -288,14 +287,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.lepallec.tv.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "66.13%",
+    "uptime": "66.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "27.97%",
-    "time": 260,
-    "timeDay": 49,
-    "timeWeek": 43,
+    "uptimeYear": "28.25%",
+    "time": 258,
+    "timeDay": 59,
+    "timeWeek": 47,
     "timeMonth": 64,
     "timeYear": 146,
     "dailyMinutesDown": {
@@ -561,8 +560,7 @@
       "2022-08-06": 1440,
       "2022-08-05": 1440,
       "2022-08-04": 1440,
-      "2022-08-03": 1440,
-      "2022-08-02": 1440
+      "2022-08-03": 1440
     }
   },
   {
@@ -571,15 +569,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.lepallec.tv.ico",
     "slug": "tautulli",
     "status": "down",
-    "uptime": "67.51%",
+    "uptime": "67.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "27.97%",
-    "time": 334,
-    "timeDay": 64,
-    "timeWeek": 53,
-    "timeMonth": 62,
+    "uptimeYear": "28.25%",
+    "time": 332,
+    "timeDay": 33,
+    "timeWeek": 51,
+    "timeMonth": 61,
     "timeYear": 176,
     "dailyMinutesDown": {
       "2023-04-22": 57,
@@ -844,8 +842,7 @@
       "2022-08-06": 1440,
       "2022-08-05": 1440,
       "2022-08-04": 1440,
-      "2022-08-03": 1440,
-      "2022-08-02": 1440
+      "2022-08-03": 1440
     }
   }
 ]

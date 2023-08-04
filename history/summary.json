@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.lepallec.tv.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "67.55%",
+    "uptime": "67.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.52%",
-    "time": 318,
-    "timeDay": 66,
-    "timeWeek": 61,
+    "uptimeYear": "28.79%",
+    "time": 317,
+    "timeDay": 65,
+    "timeWeek": 64,
     "timeMonth": 93,
     "timeYear": 232,
     "dailyMinutesDown": {
@@ -276,8 +276,7 @@
       "2022-08-08": 1440,
       "2022-08-07": 1440,
       "2022-08-06": 1440,
-      "2022-08-05": 1440,
-      "2022-08-04": 1440
+      "2022-08-05": 1440
     }
   },
   {
@@ -286,14 +285,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.lepallec.tv.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "66.20%",
+    "uptime": "66.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.52%",
-    "time": 256,
-    "timeDay": 71,
-    "timeWeek": 52,
+    "uptimeYear": "28.79%",
+    "time": 255,
+    "timeDay": 72,
+    "timeWeek": 58,
     "timeMonth": 65,
     "timeYear": 146,
     "dailyMinutesDown": {
@@ -557,8 +556,7 @@
       "2022-08-08": 1440,
       "2022-08-07": 1440,
       "2022-08-06": 1440,
-      "2022-08-05": 1440,
-      "2022-08-04": 1440
+      "2022-08-05": 1440
     }
   },
   {
@@ -567,15 +565,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.lepallec.tv.ico",
     "slug": "tautulli",
     "status": "down",
-    "uptime": "67.58%",
+    "uptime": "67.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.52%",
-    "time": 331,
-    "timeDay": 73,
-    "timeWeek": 51,
-    "timeMonth": 62,
+    "uptimeYear": "28.79%",
+    "time": 330,
+    "timeDay": 70,
+    "timeWeek": 56,
+    "timeMonth": 63,
     "timeYear": 176,
     "dailyMinutesDown": {
       "2023-04-22": 57,
@@ -838,8 +836,7 @@
       "2022-08-08": 1440,
       "2022-08-07": 1440,
       "2022-08-06": 1440,
-      "2022-08-05": 1440,
-      "2022-08-04": 1440
+      "2022-08-05": 1440
     }
   }
 ]

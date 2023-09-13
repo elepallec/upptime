@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.lepallec.tv.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "68.87%",
+    "uptime": "68.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "39.48%",
-    "time": 275,
-    "timeDay": 82,
+    "uptimeYear": "39.75%",
+    "time": 274,
+    "timeDay": 62,
     "timeWeek": 104,
-    "timeMonth": 97,
+    "timeMonth": 96,
     "timeYear": 229,
     "dailyMinutesDown": {
       "2023-04-22": 57,
@@ -236,8 +236,7 @@
       "2022-09-17": 1440,
       "2022-09-16": 1440,
       "2022-09-15": 1440,
-      "2022-09-14": 1440,
-      "2022-09-13": 1440
+      "2022-09-14": 1440
     }
   },
   {
@@ -246,15 +245,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.lepallec.tv.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "67.57%",
+    "uptime": "67.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "39.48%",
-    "time": 206,
-    "timeDay": 72,
-    "timeWeek": 83,
-    "timeMonth": 71,
+    "uptimeYear": "39.75%",
+    "time": 205,
+    "timeDay": 30,
+    "timeWeek": 80,
+    "timeMonth": 68,
     "timeYear": 145,
     "dailyMinutesDown": {
       "2023-04-22": 57,
@@ -477,8 +476,7 @@
       "2022-09-17": 1440,
       "2022-09-16": 1440,
       "2022-09-15": 1440,
-      "2022-09-14": 1440,
-      "2022-09-13": 1440
+      "2022-09-14": 1440
     }
   },
   {
@@ -487,14 +485,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.lepallec.tv.ico",
     "slug": "tautulli",
     "status": "down",
-    "uptime": "68.90%",
+    "uptime": "68.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "39.48%",
-    "time": 269,
-    "timeDay": 60,
-    "timeWeek": 75,
+    "uptimeYear": "39.75%",
+    "time": 268,
+    "timeDay": 56,
+    "timeWeek": 74,
     "timeMonth": 83,
     "timeYear": 174,
     "dailyMinutesDown": {
@@ -718,8 +716,7 @@
       "2022-09-17": 1440,
       "2022-09-16": 1440,
       "2022-09-15": 1440,
-      "2022-09-14": 1440,
-      "2022-09-13": 1440
+      "2022-09-14": 1440
     }
   }
 ]

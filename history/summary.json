@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.lepallec.tv.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "69.91%",
+    "uptime": "69.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.79%",
-    "time": 241,
-    "timeDay": 69,
-    "timeWeek": 124,
-    "timeMonth": 96,
+    "uptimeYear": "49.07%",
+    "time": 239,
+    "timeDay": 66,
+    "timeWeek": 125,
+    "timeMonth": 95,
     "timeYear": 226,
     "dailyMinutesDown": {
       "2023-04-22": 57,
@@ -202,8 +202,7 @@
       "2022-10-21": 1440,
       "2022-10-20": 1440,
       "2022-10-19": 1440,
-      "2022-10-18": 1440,
-      "2022-10-17": 1440
+      "2022-10-18": 1440
     }
   },
   {
@@ -212,14 +211,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.lepallec.tv.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "68.65%",
+    "uptime": "68.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.79%",
-    "time": 168,
-    "timeDay": 74,
-    "timeWeek": 58,
+    "uptimeYear": "49.07%",
+    "time": 166,
+    "timeDay": 49,
+    "timeWeek": 59,
     "timeMonth": 58,
     "timeYear": 143,
     "dailyMinutesDown": {
@@ -409,8 +408,7 @@
       "2022-10-21": 1440,
       "2022-10-20": 1440,
       "2022-10-19": 1440,
-      "2022-10-18": 1440,
-      "2022-10-17": 1440
+      "2022-10-18": 1440
     }
   },
   {
@@ -419,14 +417,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.lepallec.tv.ico",
     "slug": "tautulli",
     "status": "down",
-    "uptime": "69.94%",
+    "uptime": "69.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.79%",
-    "time": 199,
-    "timeDay": 49,
-    "timeWeek": 55,
+    "uptimeYear": "49.07%",
+    "time": 198,
+    "timeDay": 54,
+    "timeWeek": 58,
     "timeMonth": 55,
     "timeYear": 171,
     "dailyMinutesDown": {
@@ -616,8 +614,7 @@
       "2022-10-21": 1440,
       "2022-10-20": 1440,
       "2022-10-19": 1440,
-      "2022-10-18": 1440,
-      "2022-10-17": 1440
+      "2022-10-18": 1440
     }
   }
 ]

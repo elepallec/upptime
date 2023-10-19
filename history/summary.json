@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.lepallec.tv.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "69.97%",
+    "uptime": "70.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "49.34%",
-    "time": 238,
-    "timeDay": 50,
-    "timeWeek": 123,
+    "uptimeYear": "49.61%",
+    "time": 236,
+    "timeDay": 72,
+    "timeWeek": 125,
     "timeMonth": 94,
     "timeYear": 226,
     "dailyMinutesDown": {
@@ -200,8 +200,7 @@
       "2022-10-23": 1440,
       "2022-10-22": 1440,
       "2022-10-21": 1440,
-      "2022-10-20": 1440,
-      "2022-10-19": 1440
+      "2022-10-20": 1440
     }
   },
   {
@@ -210,16 +209,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.lepallec.tv.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "68.71%",
+    "uptime": "68.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "49.34%",
-    "time": 165,
-    "timeDay": 42,
-    "timeWeek": 59,
-    "timeMonth": 58,
-    "timeYear": 143,
+    "uptimeYear": "49.61%",
+    "time": 163,
+    "timeDay": 52,
+    "timeWeek": 61,
+    "timeMonth": 57,
+    "timeYear": 142,
     "dailyMinutesDown": {
       "2023-04-22": 57,
       "2023-04-21": 1440,
@@ -405,8 +404,7 @@
       "2022-10-23": 1440,
       "2022-10-22": 1440,
       "2022-10-21": 1440,
-      "2022-10-20": 1440,
-      "2022-10-19": 1440
+      "2022-10-20": 1440
     }
   },
   {
@@ -415,14 +413,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.lepallec.tv.ico",
     "slug": "tautulli",
     "status": "down",
-    "uptime": "69.99%",
+    "uptime": "70.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "49.34%",
-    "time": 196,
-    "timeDay": 38,
-    "timeWeek": 57,
+    "uptimeYear": "49.61%",
+    "time": 195,
+    "timeDay": 69,
+    "timeWeek": 62,
     "timeMonth": 55,
     "timeYear": 171,
     "dailyMinutesDown": {
@@ -610,8 +608,7 @@
       "2022-10-23": 1440,
       "2022-10-22": 1440,
       "2022-10-21": 1440,
-      "2022-10-20": 1440,
-      "2022-10-19": 1440
+      "2022-10-20": 1440
     }
   }
 ]

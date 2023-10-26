@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.lepallec.tv.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "70.17%",
+    "uptime": "70.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "51.26%",
-    "time": 231,
-    "timeDay": 64,
-    "timeWeek": 109,
-    "timeMonth": 92,
+    "uptimeYear": "51.53%",
+    "time": 230,
+    "timeDay": 41,
+    "timeWeek": 104,
+    "timeMonth": 91,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2023-04-22": 57,
@@ -193,8 +193,7 @@
       "2022-10-30": 1440,
       "2022-10-29": 1440,
       "2022-10-28": 1440,
-      "2022-10-27": 1440,
-      "2022-10-26": 1440
+      "2022-10-27": 1440
     }
   },
   {
@@ -203,14 +202,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.lepallec.tv.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "68.93%",
+    "uptime": "68.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "51.26%",
-    "time": 157,
-    "timeDay": 58,
-    "timeWeek": 116,
+    "uptimeYear": "51.53%",
+    "time": 155,
+    "timeDay": 37,
+    "timeWeek": 113,
     "timeMonth": 68,
     "timeYear": 136,
     "dailyMinutesDown": {
@@ -391,8 +390,7 @@
       "2022-10-30": 1440,
       "2022-10-29": 1440,
       "2022-10-28": 1440,
-      "2022-10-27": 1440,
-      "2022-10-26": 1440
+      "2022-10-27": 1440
     }
   },
   {
@@ -401,15 +399,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.lepallec.tv.ico",
     "slug": "tautulli",
     "status": "down",
-    "uptime": "70.20%",
+    "uptime": "70.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "51.26%",
-    "time": 188,
-    "timeDay": 353,
-    "timeWeek": 103,
-    "timeMonth": 64,
+    "uptimeYear": "51.53%",
+    "time": 187,
+    "timeDay": 39,
+    "timeWeek": 99,
+    "timeMonth": 65,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2023-04-22": 57,
@@ -589,8 +587,7 @@
       "2022-10-30": 1440,
       "2022-10-29": 1440,
       "2022-10-28": 1440,
-      "2022-10-27": 1440,
-      "2022-10-26": 1440
+      "2022-10-27": 1440
     }
   }
 ]

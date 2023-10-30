@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.lepallec.tv.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "70.29%",
+    "uptime": "70.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.35%",
+    "uptimeYear": "52.63%",
     "time": 226,
-    "timeDay": 131,
+    "timeDay": 70,
     "timeWeek": 89,
     "timeMonth": 96,
-    "timeYear": 225,
+    "timeYear": 224,
     "dailyMinutesDown": {
       "2023-04-22": 57,
       "2023-04-21": 1440,
@@ -189,8 +189,7 @@
       "2022-11-03": 1394,
       "2022-11-02": 1412,
       "2022-11-01": 1419,
-      "2022-10-31": 1416,
-      "2022-10-30": 1440
+      "2022-10-31": 1416
     }
   },
   {
@@ -199,14 +198,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.lepallec.tv.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "69.05%",
+    "uptime": "69.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.35%",
-    "time": 153,
-    "timeDay": 97,
-    "timeWeek": 116,
+    "uptimeYear": "52.63%",
+    "time": 151,
+    "timeDay": 65,
+    "timeWeek": 61,
     "timeMonth": 69,
     "timeYear": 136,
     "dailyMinutesDown": {
@@ -383,8 +382,7 @@
       "2022-11-03": 1394,
       "2022-11-02": 1412,
       "2022-11-01": 1419,
-      "2022-10-31": 1416,
-      "2022-10-30": 1440
+      "2022-10-31": 1416
     }
   },
   {
@@ -393,15 +391,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.lepallec.tv.ico",
     "slug": "tautulli",
     "status": "down",
-    "uptime": "70.31%",
+    "uptime": "70.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.35%",
-    "time": 184,
-    "timeDay": 99,
+    "uptimeYear": "52.63%",
+    "time": 182,
+    "timeDay": 65,
     "timeWeek": 118,
-    "timeMonth": 69,
+    "timeMonth": 70,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2023-04-22": 57,
@@ -577,8 +575,7 @@
       "2022-11-03": 1394,
       "2022-11-02": 1412,
       "2022-11-01": 1419,
-      "2022-10-31": 1416,
-      "2022-10-30": 1440
+      "2022-10-31": 1416
     }
   }
 ]

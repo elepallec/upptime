@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.lepallec.tv.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "71.29%",
+    "uptime": "71.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.97%",
-    "time": 215,
-    "timeDay": 88,
-    "timeWeek": 129,
+    "uptimeYear": "62.24%",
+    "time": 214,
+    "timeDay": 73,
+    "timeWeek": 115,
     "timeMonth": 114,
     "timeYear": 137,
     "dailyMinutesDown": {
@@ -153,8 +153,7 @@
       "2022-12-09": 1426,
       "2022-12-08": 1394,
       "2022-12-07": 1427,
-      "2022-12-06": 1416,
-      "2022-12-05": 1421
+      "2022-12-06": 1416
     }
   },
   {
@@ -163,16 +162,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.lepallec.tv.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "70.09%",
+    "uptime": "70.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.97%",
+    "uptimeYear": "62.24%",
     "time": 135,
-    "timeDay": 61,
-    "timeWeek": 69,
+    "timeDay": 58,
+    "timeWeek": 66,
     "timeMonth": 56,
-    "timeYear": 89,
+    "timeYear": 88,
     "dailyMinutesDown": {
       "2023-04-22": 57,
       "2023-04-21": 1440,
@@ -311,8 +310,7 @@
       "2022-12-09": 1426,
       "2022-12-08": 1394,
       "2022-12-07": 1427,
-      "2022-12-06": 1416,
-      "2022-12-05": 1421
+      "2022-12-06": 1416
     }
   },
   {
@@ -321,15 +319,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.lepallec.tv.ico",
     "slug": "tautulli",
     "status": "down",
-    "uptime": "71.31%",
+    "uptime": "71.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.97%",
+    "uptimeYear": "62.24%",
     "time": 161,
-    "timeDay": 60,
-    "timeWeek": 53,
-    "timeMonth": 57,
+    "timeDay": 55,
+    "timeWeek": 52,
+    "timeMonth": 58,
     "timeYear": 101,
     "dailyMinutesDown": {
       "2023-04-22": 57,
@@ -469,8 +467,7 @@
       "2022-12-09": 1426,
       "2022-12-08": 1394,
       "2022-12-07": 1427,
-      "2022-12-06": 1416,
-      "2022-12-05": 1421
+      "2022-12-06": 1416
     }
   }
 ]

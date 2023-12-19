@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.lepallec.tv.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "71.66%",
+    "uptime": "71.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.75%",
+    "uptimeYear": "66.03%",
     "time": 167,
-    "timeDay": 63,
+    "timeDay": 39,
     "timeWeek": 70,
-    "timeMonth": 106,
+    "timeMonth": 99,
     "timeYear": 98,
     "dailyMinutesDown": {
       "2023-04-22": 57,
@@ -139,8 +139,7 @@
       "2022-12-23": 1440,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
-      "2022-12-20": 1440,
-      "2022-12-19": 1440
+      "2022-12-20": 1440
     }
   },
   {
@@ -149,16 +148,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.lepallec.tv.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "70.48%",
+    "uptime": "70.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.75%",
+    "uptimeYear": "66.03%",
     "time": 109,
-    "timeDay": 30,
+    "timeDay": 27,
     "timeWeek": 34,
-    "timeMonth": 53,
-    "timeYear": 66,
+    "timeMonth": 52,
+    "timeYear": 65,
     "dailyMinutesDown": {
       "2023-04-22": 57,
       "2023-04-21": 1440,
@@ -283,8 +282,7 @@
       "2022-12-23": 1440,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
-      "2022-12-20": 1440,
-      "2022-12-19": 1440
+      "2022-12-20": 1440
     }
   },
   {
@@ -293,15 +291,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.lepallec.tv.ico",
     "slug": "tautulli",
     "status": "down",
-    "uptime": "71.69%",
+    "uptime": "71.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.75%",
+    "uptimeYear": "66.03%",
     "time": 138,
-    "timeDay": 31,
+    "timeDay": 36,
     "timeWeek": 38,
-    "timeMonth": 54,
+    "timeMonth": 53,
     "timeYear": 68,
     "dailyMinutesDown": {
       "2023-04-22": 57,
@@ -427,8 +425,7 @@
       "2022-12-23": 1440,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
-      "2022-12-20": 1440,
-      "2022-12-19": 1440
+      "2022-12-20": 1440
     }
   }
 ]

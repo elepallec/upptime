@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.lepallec.tv.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "73.22%",
+    "uptime": "73.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.01%",
+    "uptimeYear": "83.28%",
     "time": 136,
-    "timeDay": 45,
-    "timeWeek": 101,
+    "timeDay": 39,
+    "timeWeek": 97,
     "timeMonth": 98,
     "timeYear": 98,
     "dailyMinutesDown": {
@@ -76,8 +76,7 @@
       "2023-02-24": 1440,
       "2023-02-23": 1440,
       "2023-02-22": 1440,
-      "2023-02-21": 1440,
-      "2023-02-20": 1440
+      "2023-02-21": 1440
     }
   },
   {
@@ -86,15 +85,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.lepallec.tv.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "72.10%",
+    "uptime": "72.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.01%",
+    "uptimeYear": "83.28%",
     "time": 88,
-    "timeDay": 41,
-    "timeWeek": 46,
-    "timeMonth": 71,
+    "timeDay": 49,
+    "timeWeek": 47,
+    "timeMonth": 72,
     "timeYear": 65,
     "dailyMinutesDown": {
       "2023-04-22": 57,
@@ -157,8 +156,7 @@
       "2023-02-24": 1440,
       "2023-02-23": 1440,
       "2023-02-22": 1440,
-      "2023-02-21": 1440,
-      "2023-02-20": 1440
+      "2023-02-21": 1440
     }
   },
   {
@@ -167,14 +165,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.lepallec.tv.ico",
     "slug": "tautulli",
     "status": "down",
-    "uptime": "73.24%",
+    "uptime": "73.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.01%",
+    "uptimeYear": "83.28%",
     "time": 99,
-    "timeDay": 190,
-    "timeWeek": 102,
+    "timeDay": 32,
+    "timeWeek": 99,
     "timeMonth": 58,
     "timeYear": 65,
     "dailyMinutesDown": {
@@ -238,8 +236,7 @@
       "2023-02-24": 1440,
       "2023-02-23": 1440,
       "2023-02-22": 1440,
-      "2023-02-21": 1440,
-      "2023-02-20": 1440
+      "2023-02-21": 1440
     }
   }
 ]

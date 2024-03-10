@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.lepallec.tv.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "73.65%",
+    "uptime": "73.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.94%",
+    "uptimeYear": "88.22%",
     "time": 128,
-    "timeDay": 99,
+    "timeDay": 65,
     "timeWeek": 62,
     "timeMonth": 101,
     "timeYear": 99,
@@ -57,8 +57,7 @@
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
-      "2023-03-12": 1440,
-      "2023-03-11": 1440
+      "2023-03-12": 1440
     }
   },
   {
@@ -67,15 +66,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.lepallec.tv.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "72.55%",
+    "uptime": "72.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.94%",
+    "uptimeYear": "88.22%",
     "time": 82,
-    "timeDay": 71,
-    "timeWeek": 51,
-    "timeMonth": 69,
+    "timeDay": 52,
+    "timeWeek": 50,
+    "timeMonth": 68,
     "timeYear": 64,
     "dailyMinutesDown": {
       "2023-04-22": 57,
@@ -119,8 +118,7 @@
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
-      "2023-03-12": 1440,
-      "2023-03-11": 1440
+      "2023-03-12": 1440
     }
   },
   {
@@ -129,14 +127,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.lepallec.tv.ico",
     "slug": "tautulli",
     "status": "down",
-    "uptime": "73.68%",
+    "uptime": "73.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.94%",
+    "uptimeYear": "88.22%",
     "time": 91,
     "timeDay": 62,
-    "timeWeek": 51,
+    "timeWeek": 52,
     "timeMonth": 73,
     "timeYear": 64,
     "dailyMinutesDown": {
@@ -181,8 +179,7 @@
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
-      "2023-03-12": 1440,
-      "2023-03-11": 1440
+      "2023-03-12": 1440
     }
   }
 ]

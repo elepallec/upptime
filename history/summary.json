@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.lepallec.tv.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "74.34%",
+    "uptime": "74.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.44%",
+    "uptimeYear": "96.71%",
     "time": 112,
     "timeDay": 59,
-    "timeWeek": 70,
+    "timeWeek": 65,
     "timeMonth": 95,
     "timeYear": 98,
     "dailyMinutesDown": {
@@ -26,8 +26,7 @@
       "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
-      "2023-04-12": 1440,
-      "2023-04-11": 1440
+      "2023-04-12": 1440
     }
   },
   {
@@ -36,15 +35,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.lepallec.tv.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "73.27%",
+    "uptime": "73.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.44%",
+    "uptimeYear": "96.71%",
     "time": 71,
-    "timeDay": 62,
-    "timeWeek": 54,
-    "timeMonth": 52,
+    "timeDay": 104,
+    "timeWeek": 62,
+    "timeMonth": 54,
     "timeYear": 63,
     "dailyMinutesDown": {
       "2023-04-22": 57,
@@ -57,8 +56,7 @@
       "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
-      "2023-04-12": 1440,
-      "2023-04-11": 1440
+      "2023-04-12": 1440
     }
   },
   {
@@ -67,13 +65,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.lepallec.tv.ico",
     "slug": "tautulli",
     "status": "down",
-    "uptime": "74.36%",
+    "uptime": "74.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.44%",
+    "uptimeYear": "96.71%",
     "time": 75,
-    "timeDay": 52,
+    "timeDay": 63,
     "timeWeek": 57,
     "timeMonth": 51,
     "timeYear": 62,
@@ -88,8 +86,7 @@
       "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
-      "2023-04-12": 1440,
-      "2023-04-11": 1440
+      "2023-04-12": 1440
     }
   }
 ]

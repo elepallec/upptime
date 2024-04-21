@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.lepallec.tv.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "74.57%",
+    "uptime": "74.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.72%",
     "time": 104,
-    "timeDay": 54,
+    "timeDay": 58,
     "timeWeek": 61,
-    "timeMonth": 84,
-    "timeYear": 98,
-    "dailyMinutesDown": {
-      "2023-04-22": 57
-    }
+    "timeMonth": 80,
+    "timeYear": 97,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ombi",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.lepallec.tv.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "73.51%",
+    "uptime": "73.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.72%",
     "time": 67,
-    "timeDay": 57,
-    "timeWeek": 70,
+    "timeDay": 59,
+    "timeWeek": 71,
     "timeMonth": 58,
     "timeYear": 63,
-    "dailyMinutesDown": {
-      "2023-04-22": 57
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tautulli",
@@ -45,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.lepallec.tv.ico",
     "slug": "tautulli",
     "status": "down",
-    "uptime": "74.60%",
+    "uptime": "74.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.72%",
     "time": 70,
-    "timeDay": 60,
-    "timeWeek": 70,
-    "timeMonth": 55,
+    "timeDay": 32,
+    "timeWeek": 55,
+    "timeMonth": 54,
     "timeYear": 62,
-    "dailyMinutesDown": {
-      "2023-04-22": 57
-    }
+    "dailyMinutesDown": {}
   }
 ]

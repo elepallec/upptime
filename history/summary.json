@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.lepallec.tv.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "80.11%",
+    "uptime": "80.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 86,
-    "timeDay": 53,
-    "timeWeek": 59,
+    "timeDay": 63,
+    "timeWeek": 57,
     "timeMonth": 72,
-    "timeYear": 80,
+    "timeYear": 79,
     "dailyMinutesDown": {}
   },
   {
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.lepallec.tv.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "79.28%",
+    "uptime": "79.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -41,7 +41,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.lepallec.tv.ico",
     "slug": "tautulli",
     "status": "down",
-    "uptime": "80.13%",
+    "uptime": "80.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -50,7 +50,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 70,
+    "timeYear": 71,
     "dailyMinutesDown": {}
   }
 ]

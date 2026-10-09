@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.lepallec.tv.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "85.44%",
+    "uptime": "85.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 92,
-    "timeDay": 51,
-    "timeWeek": 50,
+    "timeDay": 36,
+    "timeWeek": 49,
     "timeMonth": 49,
-    "timeYear": 82,
+    "timeYear": 81,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 83,
-    "timeDay": 59,
-    "timeWeek": 44,
-    "timeMonth": 49,
-    "timeYear": 73,
+    "timeDay": 38,
+    "timeWeek": 45,
+    "timeMonth": 48,
+    "timeYear": 72,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 85,
-    "timeDay": 61,
-    "timeWeek": 50,
-    "timeMonth": 52,
+    "timeDay": 30,
+    "timeWeek": 48,
+    "timeMonth": 51,
     "timeYear": 77,
     "dailyMinutesDown": {}
   }
